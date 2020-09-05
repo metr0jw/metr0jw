@@ -1,27 +1,32 @@
-<h3>Jiwoon Lee -- @metr0jw</h3>
+<h2>Jiwoon Lee  -- @metr0jw</h2>
+ My research interests are in generating voice with Generative Adversarial Network, and making game agents with Reinforcement Learning.
 
 
-
-🔭 I’m currently working on
+💪 I’m currently working on
 -
-- Serving in Republic of Korea Army until Dec 22, 2021
+- <b>Serving in Republic of Korea Army until Dec 22, 2021</b>
 - Undergraduate Kwangwoon University, School of Computer and Information Engineering
 - Facebook Group 코딩이랑 무관합니다만, Administrator
 - Organizer of DeepUser, Deep Learning Club for Undergradute Students 
 - Member of MI:RU, KWU Machine Learning Club 
 
-🌱 I’m currently learning
+🎓 I’m currently learning
 - 
-- Python, C#, C/C++
+- <b>Python</b>, <b>C#</b>, C/C++
 - Operating System
 - ASP.Net Core, Django
 - Blazor
 - Unity, Unity ML-Agents
-- TensorFlow, Keras, PyTorch
-- Generative Models
+- <b>TensorFlow</b>, <b>Keras</b>, PyTorch
+- <b>Generative Models</b>
 - Natural Language Processing
 - Reinforcement Learing
 - Neural Networks
+
+🏷️ Stats
+-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=metr0jw&count_private=true&show_icons=true&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metr0jw)
 
 ⚡ Announcements & Communications
 -

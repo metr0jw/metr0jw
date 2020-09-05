@@ -15,7 +15,8 @@
 - Python, C#, C/C++
 - Operating System
 - .Net Core
-- TensorFlow, Keras, PyTorch, Unity ML-Agents
+- Unity, Unity ML-Agents
+- TensorFlow, Keras, PyTorch
 - Generative Models
 - Natural Language Processing
 - Reinforcement Learing

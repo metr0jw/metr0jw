@@ -27,9 +27,9 @@
 📫 How to reach me
 - 
 - Mail : <metr0jw@naver.com>
-- LinkedIn : linkedin.com/in/jiwoon-lee-733428182
-- Facebook : facebook.com/metr0jw
-- ResearchGate : researchgate.net/profile/Jiwoon_Lee5
+- LinkedIn : https://www.linkedin.com/in/jiwoon-lee-733428182/
+- Facebook : https://www.facebook.com/metr0jw
+- ResearchGate : https://www.researchgate.net/profile/Jiwoon_Lee5
 
   
  

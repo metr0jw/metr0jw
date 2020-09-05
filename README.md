@@ -23,6 +23,11 @@
 - Data Visualization
 - Neural Networks
 
+⚡ Announcements & Communications
+-
+- <b>J. Lee</b>, “Video editing using Machine Learning(머신러닝을 이용한 영상 편집)”, 코딩이랑 무관합니다만 2019년 3분기 meet-up , Seoul, Korea (2019)
+- S. Baek, S. Han, <b>J. Lee</b>, C. Park, “Arrhythmia Classification Using 1D-2D Conversion”, u-Healthcare 2019, Dec 2019, Kookmin University
+
 
 📫 How to reach me
 - 

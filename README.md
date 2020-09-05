@@ -1,5 +1,37 @@
-### Hi there 👋
+<h3>Jiwoon Lee -- @mer0jw</h3>
 
+
+
+🔭 I’m currently working on
+-
+- Serving in Republic of Korea Army until Dec 22, 2021
+- Undergraduate Kwangwoon University, School of Computer and Information Engineering
+- Facebook Group 코딩이랑 무관합니다만, Administrator
+- Organizer of DeepUser, Deep Learning Club for Undergradute Students 
+- Member of MI:RU, KWU Machine Learning Club 
+
+🌱 I’m currently learning
+- 
+- Python, C#, C/C++
+- Operating System
+- .Net Core
+- TensorFlow, Keras, PyTorch, Unity ML-Agents
+- Generative Models
+- Natural Language Processing
+- Reinforcement Learing
+- Data Visualization
+- Neural Networks
+
+
+📫 How to reach me
+- 
+- Mail : <metr0jw@naver.com>
+- LinkedIn : linkedin.com/in/jiwoon-lee-733428182
+- Facebook : facebook.com/metr0jw
+- ResearchGate : researchgate.net/profile/Jiwoon_Lee5
+
+  
+ 
 <!--
 **metr0jw/metr0jw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

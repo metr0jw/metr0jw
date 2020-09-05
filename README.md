@@ -14,7 +14,8 @@
 - 
 - Python, C#, C/C++
 - Operating System
-- .Net Core
+- ASP.Net Core, Django
+- Blazor
 - Unity, Unity ML-Agents
 - TensorFlow, Keras, PyTorch
 - Generative Models

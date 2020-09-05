@@ -21,7 +21,6 @@
 - Generative Models
 - Natural Language Processing
 - Reinforcement Learing
-- Data Visualization
 - Neural Networks
 
 ⚡ Announcements & Communications

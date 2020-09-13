@@ -13,15 +13,15 @@
 🎓 I’m currently learning
 - 
 - <b>Python</b>, <b>C#</b>, C/C++
-- Operating System
-- ASP.Net Core, Django
-- Blazor
-- Unity, Unity ML-Agents
 - <b>TensorFlow</b>, <b>Keras</b>, PyTorch
 - <b>Generative Models</b>
 - Natural Language Processing
-- Reinforcement Learing
-- Neural Networks
+- <b>Reinforcement Learing</b>
+- <b>Neural Networks</b>
+- <b>Unity</b>, Unity ML-Agents
+- ASP.Net Core, Django
+- Blazor
+- Operating System
 
 🏷️ Stats
 -

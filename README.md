@@ -21,7 +21,6 @@
 - <b>Unity</b>, Unity ML-Agents
 - ASP.Net Core, Django
 - Blazor
-- Operating System
 
 🏷️ Stats
 -

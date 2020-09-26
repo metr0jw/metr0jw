@@ -1,5 +1,5 @@
 <h2>Jiwoon Lee  -- @metr0jw</h2>
- My research interests are in generating voice with Generative Adversarial Network, and making game agents with Reinforcement Learning.
+ My research interests include Generative Models, Natural Language Processing, and Reinforcement Learning, especially application of it in Robotics.
 
 
 💪 I’m currently working on

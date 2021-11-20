@@ -14,13 +14,13 @@
 
 🎓 I’m currently learning
 - 
-- <b>Python</b>, <b>C#</b>, C/C++
+- <b>Python</b>, <b>C#</b>, C/C++, JavaScript
 - <b>TensorFlow</b>, <b>Keras</b>, PyTorch
-- <b>Generative Models</b>
-- Natural Language Processing
-- <b>Reinforcement Learing</b>
-- <b>Neural Networks</b>
-- <b>Unity</b>, Unity ML-Agents
+- <b>Deep Learning</b>
+- Reinforcement Learing
+- Computer Vision
+- Signal Processing
+- <b>Unity</b>
 - ASP.Net Core, Django
 - Blazor
 

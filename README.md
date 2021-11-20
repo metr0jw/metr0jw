@@ -16,10 +16,10 @@
 - 
 - <b>Python</b>, <b>C#</b>, C/C++, JavaScript
 - <b>TensorFlow</b>, <b>Keras</b>, PyTorch
-- <b>Deep Learning</b>
-- Reinforcement Learing
-- Computer Vision
+- <b>Computer Vision</b>
+- Generative Models
 - Signal Processing
+- Natural Language Processing
 - <b>Unity</b>
 - ASP.Net Core, Django
 - Blazor

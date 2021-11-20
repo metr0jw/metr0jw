@@ -17,8 +17,8 @@
 - <b>Python</b>, <b>C#</b>, C/C++, JavaScript
 - <b>TensorFlow</b>, <b>Keras</b>, PyTorch
 - <b>Computer Vision</b>
-- Generative Models
 - Signal Processing
+- Generative Models
 - <b>Unity</b>
 - ASP.Net Core, Django
 - Blazor

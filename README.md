@@ -6,7 +6,6 @@
 
 💪 I’m currently working on
 -
-- <b>Serving in Republic of Korea Army until Dec 22, 2021</b>
 - Undergraduate Kwangwoon University, School of Computer and Information Engineering
 - Facebook Group 코딩이랑 무관합니다만, Administrator
 - Organizer of DeepUser, Deep Learning Club for Undergradute Students 

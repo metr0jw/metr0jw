@@ -25,7 +25,8 @@
 
 🏷️ Stats
 -
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=metr0jw&count_private=true&show_icons=true&theme=buefy)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=metr0jw&count_private=true&show_icons=true&theme=buefy)<br>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=metr0jw)](https://solved.ac/metr0jw)
 
 ⚡ Announcements & Communications
 -

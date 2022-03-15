@@ -14,7 +14,7 @@
 
 🎓 Skills and Techniques
 - 
-- <b>Python</b>, <b>C#</b>, SQL, C/C++, JavaScript
+- <b>Python</b>, <b>C#</b>, SQL, Java, C/C++, JavaScript
 - <b>TensorFlow</b>, <b>Keras</b>, PyTorch
 - <b>Generative Models</b>, <b>Computer Vision</b>, <b>Neural Networks</b>, Signal Processing, Reinforcement Learning
 - Unity

@@ -1,32 +1,30 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmetr0jw&count_bg=%238A1601&title_bg=%23212121&icon=csharp.svg&icon_color=%23FFFFFF&title=Who+clicked+metr0jw%3F&edge_flat=false"/></a>
 
 <h2>Jiwoon Lee  -- @metr0jw</h2>
- My research interests include Generative models, Spiking Neural Networks, and the application of Reinforcement Learning in Robotics.
+ My research interests include <b>Generative models</b>, <b>Spiking Neural Networks</b>, and <b>Graph Neural Network</b>.
 
 
 💪 I’m currently working on
 -
 - Undergraduate Researcher, [Bio Computing & Machine Learning Lab](https://bcml.kw.ac.kr/)
-- Undergraduate [Kwangwoon University](https://www.kw.ac.kr/), [School of Computer and Information Engineering](http://ce.kw.ac.kr/)
+- Sophomore Student, [Kwangwoon University](https://www.kw.ac.kr/), [School of Computer and Information Engineering](http://ce.kw.ac.kr/)
 - Administrator of Facebook Group [코딩이랑 무관합니다만,](https://www.facebook.com/groups/System.out.Coding)
 - Organizer of [DeepUser](https://www.facebook.com/DeepUserAI), Deep Learning Club for Undergradute Students 
 - Administrator of [MI:RU](https://www.facebook.com/KWUMIRU), KWU Machine Learning Club 
 
 🎓 Skills and Techniques
 - 
-- <b>Python</b>, <b>C#</b>, C/C++, JavaScript
+- <b>Python</b>, <b>C#</b>, SQL, C/C++, JavaScript
 - <b>TensorFlow</b>, <b>Keras</b>, PyTorch
-- <b>Computer Vision</b>
-- Signal Processing
-- Generative Models
-- <b>Unity</b>
+- <b>Generative Models</b>, <b>Computer Vision</b>, <b>Neural Networks</b>, Signal Processing, Reinforcement Learning
+- Unity
 - ASP.Net Core, Django
 - Blazor
 
 🏷️ Stats
 -
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=metr0jw&count_private=true&show_icons=true&theme=buefy)<br>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=metr0jw)](https://solved.ac/metr0jw)
+| <a href="https://github.com/metr0jw"><img align="center" src="https://github-readme-stats.vercel.app/api?username=metr0jw&count_private=true&show_icons=true&theme=tokyonight" alt="Jiwoon's github stats" /></a> | <a href="https://solved.ac/metr0jw"><img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=metr0jw" alt="Jiwoon's Solved.ac Profile" /></a> | 
+| ------------- | ------------- |
 
 ⚡ Announcements & Communications
 -
@@ -38,8 +36,9 @@
 - 
 - Mail : <metr0jw@naver.com>
 - LinkedIn : https://www.linkedin.com/in/jiwoon-lee-733428182/
-- Facebook : https://www.facebook.com/metr0jw
 - ResearchGate : https://www.researchgate.net/profile/Jiwoon_Lee5
+- Facebook : https://www.facebook.com/metr0jw
+- Instagram : https://www.instagram.com/laz_y_w00n/
 
   
  

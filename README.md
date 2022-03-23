@@ -8,9 +8,9 @@
 -
 - Undergraduate Researcher, [Bio Computing & Machine Learning Lab](https://bcml.kw.ac.kr/)
 - Sophomore Student, [Kwangwoon University](https://www.kw.ac.kr/), [School of Computer and Information Engineering](http://ce.kw.ac.kr/)
-- Administrator of Facebook Group [코딩이랑 무관합니다만,](https://www.facebook.com/groups/System.out.Coding)
+- Organizer of Facebook Group [코딩이랑 무관합니다만,](https://www.facebook.com/groups/System.out.Coding)
 - Organizer of [DeepUser](https://www.facebook.com/DeepUserAI), Deep Learning Club for Undergradute Students 
-- Administrator of [MI:RU](https://www.facebook.com/KWUMIRU), KWU Machine Learning Club 
+- Organizer of [MI:RU](https://www.facebook.com/KWUMIRU), KWU Machine Learning Club 
 
 🎓 Skills and Techniques
 - 

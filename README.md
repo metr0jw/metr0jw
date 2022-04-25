@@ -3,7 +3,6 @@
 <h2>Jiwoon Lee  -- @metr0jw</h2>
  My research interests include <b>Generative models</b>, <b>Spiking Neural Networks</b>, and <b>Graph Neural Network</b>.
 
-
 💪 I’m currently working on
 -
 - Undergraduate Researcher, [Bio Computing & Machine Learning Lab](https://bcml.kw.ac.kr/)
@@ -11,6 +10,11 @@
 - Organizer of Facebook Group [코딩이랑 무관합니다만,](https://www.facebook.com/groups/System.out.Coding)
 - Organizer of [DeepUser](https://www.facebook.com/DeepUserAI), Deep Learning Club for Undergradute Students 
 - Organizer of [MI:RU](https://www.facebook.com/KWUMIRU), KWU Machine Learning Club 
+
+⚡ Announcements & Communications
+-
+- <b>J. Lee</b>, “Video editing using Machine Learning(머신러닝을 이용한 영상 편집)”, 코딩이랑 무관합니다만 2019년 3분기 meet-up , Seoul, Korea (2019)
+- S. Baek, S. Han, <b>J. Lee</b>, C. Park, “Arrhythmia Classification Using 1D-2D Conversion”, u-Healthcare 2019, Dec 2019, Kookmin University
 
 🎓 Skills and Techniques
 - 
@@ -25,12 +29,6 @@
 -
 | <a href="https://github.com/metr0jw"><img align="center" src="https://github-readme-stats.vercel.app/api?username=metr0jw&count_private=true&show_icons=true&theme=tokyonight" alt="Jiwoon's github stats" /></a> | <a href="https://solved.ac/metr0jw"><img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=metr0jw" alt="Jiwoon's Solved.ac Profile" /></a> | 
 | ------------- | ------------- |
-
-⚡ Announcements & Communications
--
-- <b>J. Lee</b>, “Video editing using Machine Learning(머신러닝을 이용한 영상 편집)”, 코딩이랑 무관합니다만 2019년 3분기 meet-up , Seoul, Korea (2019)
-- S. Baek, S. Han, <b>J. Lee</b>, C. Park, “Arrhythmia Classification Using 1D-2D Conversion”, u-Healthcare 2019, Dec 2019, Kookmin University
-
 
 📫 How to reach me
 - 

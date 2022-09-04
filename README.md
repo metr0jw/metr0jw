@@ -27,6 +27,13 @@
 - ASP.Net Core, Django
 - Blazor
 
+📜 Certifications
+- 
+- <b>Qualcomm Institute Artificial Intelligence (AI) Development Project</b>   
+<a href="https://qi.ucsd.edu/">Qualcomm Institute - UC San Diego Division of Calit2</a>
+- <b>Principles of Supercomputerand Supercomputing</b>   
+<a href="https://www.kisti.re.kr/eng/">Korea Institute of Science and Technology</a>
+
 🏷️ Stats
 -
 | <a href="https://github.com/metr0jw"><img align="center" src="https://github-readme-stats.vercel.app/api?username=metr0jw&count_private=true&show_icons=true&theme=tokyonight" alt="Jiwoon's github stats" /></a> | <a href="https://solved.ac/metr0jw"><img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=metr0jw" alt="Jiwoon's Solved.ac Profile" /></a> | 

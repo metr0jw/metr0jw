@@ -30,7 +30,7 @@
 📜 Certifications
 - 
 - <b>Qualcomm Institute Artificial Intelligence (AI) Development Project</b>   
-<a href="https://qi.ucsd.edu/">Qualcomm Institute - UC San Diego Division of Calit2</a>
+<a href="https://qi.ucsd.edu/">Qualcomm Institute</a> - <a href="https://ucsd.edu/">UC San Diego</a> Division of <a href="https://calit2.net/">Calit2</a>
 - <b>Principles of Supercomputerand Supercomputing</b>   
 <a href="https://www.kisti.re.kr/eng/">Korea Institute of Science and Technology</a>
 

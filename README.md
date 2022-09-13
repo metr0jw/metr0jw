@@ -2,7 +2,7 @@
 
 <h2>📈 Jiwoon Lee -- @metr0jw</h2>
  Hi there! I'm Jiwoon, sophomore student in Computer Engineering from Kwangwoon university in Seoul, Korea.<br>
- I'm studying <b>Generative Models</b>, <b>Spiking Neural Networks</b>, and overall <b>Medical AI</b>!
+ I'm studying <b>Generative Models</b>, <b>Neural computation</b>, and overall <b>Medical AI</b>!
 
 💪 I’m currently working on
 -

@@ -13,8 +13,8 @@
 - Organizer of [MI:RU](https://www.facebook.com/KWUMIRU), KWU Machine Learning Club 
 
 ⚡ Announcements & Communications
--
-- <b>J. Lee</b>, “What does an undergraduate researcher do?(학부 연구원은 어떤걸 하는 건가요?)”, 코딩이랑 무관합니다만 2022년 상반기 meet-up , Seoul, Korea (2022)
+- <b>Jiwoon Lee<b>, Et al., "Restoration of Time-Series Medical Data with Diffusion Model". 2022 IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia), IEEE, 2022.
+- <b>J. Lee</b>, “What does an undergraduate researcher do?(학부 연구원은 어떤걸 하는 건가요?)”, 코딩이랑 무관합니다만 2022년 상반기 meet-up, Seoul, Korea (2022)
 - <b>J. Lee</b>, “Video editing using Machine Learning(머신러닝을 이용한 영상 편집)”, 코딩이랑 무관합니다만 2019년 3분기 meet-up , Seoul, Korea (2019)
 - S. Baek, S. Han, <b>J. Lee</b>, C. Park, “Arrhythmia Classification Using 1D-2D Conversion”, u-Healthcare 2019, Dec 2019, Kookmin University
 

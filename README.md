@@ -10,7 +10,7 @@
 - Sophomore Student, [Kwangwoon University](https://www.kw.ac.kr/), [School of Computer and Information Engineering](http://ce.kw.ac.kr/)
 - Organizer of Facebook Group [코딩이랑 무관합니다만,](https://www.facebook.com/groups/System.out.Coding)
 - Organizer of [DeepUser](https://www.facebook.com/DeepUserAI), Deep Learning Club for Undergradute Students 
-- Organizer of [MI:RU](https://www.facebook.com/KWUMIRU), KWU Machine Learning Club 
+- Member of IEEE, IEEE Consumer Technology Society
 
 ⚡ Announcements & Communications
 - <b>Jiwoon Lee<b>, Et al., "Restoration of Time-Series Medical Data with Diffusion Model". 2022 IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia), IEEE, 2022.

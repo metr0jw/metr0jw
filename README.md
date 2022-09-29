@@ -10,9 +10,10 @@
 - Sophomore Student, [Kwangwoon University](https://www.kw.ac.kr/), [School of Computer and Information Engineering](http://ce.kw.ac.kr/)
 - Organizer of Facebook Group [코딩이랑 무관합니다만,](https://www.facebook.com/groups/System.out.Coding)
 - Organizer of [DeepUser](https://www.facebook.com/DeepUserAI), Deep Learning Club for Undergradute Students 
-- Member of IEEE, IEEE Consumer Technology Society
+- Member of [IEEE](https://www.ieee.org/) and [IEEE Consumer Technology Society](https://ctsoc.ieee.org/)
 
 ⚡ Announcements & Communications
+-
 - <b>Jiwoon Lee<b>, Et al., "Restoration of Time-Series Medical Data with Diffusion Model". 2022 IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia), IEEE, 2022.
 - <b>J. Lee</b>, “What does an undergraduate researcher do?(학부 연구원은 어떤걸 하는 건가요?)”, 코딩이랑 무관합니다만 2022년 상반기 meet-up, Seoul, Korea (2022)
 - <b>J. Lee</b>, “Video editing using Machine Learning(머신러닝을 이용한 영상 편집)”, 코딩이랑 무관합니다만 2019년 3분기 meet-up , Seoul, Korea (2019)

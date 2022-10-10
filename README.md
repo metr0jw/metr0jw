@@ -1,4 +1,14 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmetr0jw&count_bg=%238A1601&title_bg=%23212121&icon=csharp.svg&icon_color=%23FFFFFF&title=Who+clicked+metr0jw%3F&edge_flat=false"/></a>
+[![wakatime](https://wakatime.com/badge/user/ea3d5f05-b2d1-46f0-8f4b-c46f4c347b8b.svg)](https://wakatime.com/@ea3d5f05-b2d1-46f0-8f4b-c46f4c347b8b)<br>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)<br>
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <h2>📈 Jiwoon Lee -- @metr0jw</h2>
  Hi there! I'm Jiwoon, sophomore student in Computer Engineering from Kwangwoon university in Seoul, Korea.<br>
@@ -44,7 +54,7 @@
 -
 - Website: https://metr0jw.studio/
 - Mail : <metr0jw@naver.com>
-- LinkedIn : https://www.linkedin.com/in/지운-이-733428182/
+- LinkedIn : https://www.linkedin.com/in/metr0jw/
 - ResearchGate : https://www.researchgate.net/profile/Jiwoon_Lee5
 - Facebook : https://www.facebook.com/metr0jw
 - Instagram : https://www.instagram.com/laz_y_w00n/

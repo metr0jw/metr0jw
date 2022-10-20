@@ -22,7 +22,7 @@
 - Organizer of [DeepUser](https://www.facebook.com/DeepUserAI), Deep Learning Club for Undergradute Students 
 - Member of [IEEE](https://www.ieee.org/) and [IEEE Consumer Technology Society](https://ctsoc.ieee.org/)
 
-⚡ Announcements & Communications
+⚡ Announcements & Publications
 -
 - <b>Jiwoon Lee<b>, Et al., "Restoration of Time-Series Medical Data with Diffusion Model". 2022 IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia), IEEE, 2022.
 - <b>J. Lee</b>, “What does an undergraduate researcher do?(학부 연구원은 어떤걸 하는 건가요?)”, 코딩이랑 무관합니다만 2022년 상반기 meet-up, Seoul, Korea (2022)

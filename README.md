@@ -1,16 +1,24 @@
-<h2>📈 Jiwoon Lee -- @metr0jw</h2>
- Hi there! I'm Jiwoon, junior student in Computer Engineering from Kwangwoon university in Seoul, Korea.<br>
- I'm studying <b>Computational Neuroscience</b>, overall <b>Medical AI</b>, and <b>Generative Models</b>, !
-
-💪 I’m currently working on
+Research Interests
 -
-- Undergraduate Researcher, [Bio Computing & Machine Learning Lab](http://bcml.kw.ac.kr/)
-- Sophomore Student, [Kwangwoon University](https://www.kw.ac.kr/), [School of Computer and Information Engineering](http://ce.kw.ac.kr/)
-- Organizer of Facebook Group [코딩이랑 무관합니다만,](https://www.facebook.com/groups/System.out.Coding)
-- Organizer of [DeepUser](https://www.facebook.com/DeepUserAI), Deep Learning Club for Undergradute Students 
-- Member of [IEEE](https://www.ieee.org/) and [IEEE Consumer Technology Society](https://ctsoc.ieee.org/)
+- Computational Neuroscience
+- Medical AI
+- Generative Models
+- Signal Processing
+- Machine Learning
 
-🔬 Publications
+Education
+-
+- `2019.02 ~ Current` B.S. in Computer Engineering, [Kwangwoon University](https://www.kw.ac.kr/en), Seoul, Korea
+
+Affilation
+-
+- `2022.09 ~ Current`, Student Member of [IEEE](https://www.ieee.org/) and [IEEE Consumer Technology Society](https://ctsoc.ieee.org/)
+- `2022.07 ~ 2022.08`, Research Intern, [Qualcomm Institute - UC San Diego Division of Calit2](https://qi.ucsd.edu/)
+- `2022.01 ~ Current`, Research Intern, [Bio Computing & Machine Learning Lab](http://bcml.kw.ac.kr/)
+- `2019.12 ~ Current`, Organizer of [DeepUser](https://www.facebook.com/DeepUserAI), Deep Learning Club for Undergradute Students 
+- `2015.09 ~ Current`, Organizer of Community for Programmer [코딩이랑 무관합니다만,](https://www.facebook.com/groups/System.out.Coding)
+
+Publications
 -
 - <b>J. Lee</b>, C. Park, "Restoration of Time-Series Medical Data with Diffusion Model". 2022 IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia), Oct 2022
 - S. Baek, S. Han, <b>J. Lee</b>, C. Park, “Arrhythmia Classification Using 1D-2D Conversion”, u-Healthcare 2019, Dec 2019, Kookmin University

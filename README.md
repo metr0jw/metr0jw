@@ -1,5 +1,5 @@
 <h2>📈 Jiwoon Lee -- @metr0jw</h2>
- Hi there! I'm Jiwoon, sophomore student in Computer Engineering from Kwangwoon university in Seoul, Korea.<br>
+ Hi there! I'm Jiwoon, junior student in Computer Engineering from Kwangwoon university in Seoul, Korea.<br>
  I'm studying <b>Computational Neuroscience</b>, overall <b>Medical AI</b>, and <b>Generative Models</b>, !
 
 💪 I’m currently working on

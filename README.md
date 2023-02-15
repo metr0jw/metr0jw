@@ -2,7 +2,7 @@ Research Interests
 -
 - Computational Neuroscience
 - Medical AI
-- Generative Models
+- Generative AI
 - Signal Processing
 - Machine Learning
 

@@ -8,15 +8,15 @@ Research Interests
 
 Education
 -
-- `2019.02 ~ Current` B.S. in Computer Engineering, [Kwangwoon University](https://www.kw.ac.kr/en), Seoul, Korea
+- `2019.02 ~ Present` B.S. in Computer Engineering, [Kwangwoon University](https://www.kw.ac.kr/en), Seoul, Korea
 
 Affilation
 -
-- `2022.09 ~ Current`, Student Member of [IEEE](https://www.ieee.org/) and [IEEE Consumer Technology Society](https://ctsoc.ieee.org/)
+- `2022.09 ~ Present`, Student Member of [IEEE](https://www.ieee.org/) and [IEEE Consumer Technology Society](https://ctsoc.ieee.org/)
 - `2022.07 ~ 2022.08`, Research Intern, [Qualcomm Institute - UC San Diego Division of Calit2](https://qi.ucsd.edu/)
-- `2022.01 ~ Current`, Research Intern, [Bio Computing & Machine Learning Lab](http://bcml.kw.ac.kr/)
-- `2019.12 ~ Current`, Organizer of [DeepUser](https://www.facebook.com/DeepUserAI), Deep Learning Club for Undergradute Students 
-- `2015.09 ~ Current`, Organizer of Community for Programmer [코딩이랑 무관합니다만,](https://www.facebook.com/groups/System.out.Coding)
+- `2022.01 ~ Present`, Research Intern, [Bio Computing & Machine Learning Lab](http://bcml.kw.ac.kr/)
+- `2019.12 ~ Present`, Organizer of [DeepUser](https://www.facebook.com/DeepUserAI), Deep Learning Club for Undergradute Students 
+- `2015.09 ~ Present`, Organizer of Community for Programmer [코딩이랑 무관합니다만,](https://www.facebook.com/groups/System.out.Coding)
 
 Publications
 -

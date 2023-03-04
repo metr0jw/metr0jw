@@ -1,8 +1,8 @@
-CV
+📜 CV
 -
-[[Link]](https://github.com/metr0jw/metr0jw/blob/master/Rezume_Jiwoon.pdf)
+[[LINK]](https://github.com/metr0jw/metr0jw/blob/master/Rezume_Jiwoon.pdf)
 
-Research Interests
+🔬 Research Interests
 -
 - Computational Neuroscience
 - Medical AI
@@ -10,14 +10,14 @@ Research Interests
 - Signal Processing
 - Machine Learning
 
+
 📫 How to reach me
 -
-- Mail : <metr0jw@outlook.com>
+- <metr0jw@outlook.com> / <webmaster@kw.ac.kr>
 - [LinkedIn](https://www.linkedin.com/in/metr0jw/)
 - [ResearchGate](https://www.researchgate.net/profile/Jiwoon-Lee-3)
 - [Facebook](https://www.facebook.com/metr0jw)
 - [Instagram](https://www.instagram.com/laz_y_w00n/)
-
   
  
 <!--

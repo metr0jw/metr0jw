@@ -1,6 +1,6 @@
 📜 CV
 -
-[[LINK]](https://github.com/metr0jw/metr0jw/blob/master/Rezume_Jiwoon.pdf)
+[**[LINK]**](https://github.com/metr0jw/metr0jw/blob/master/Rezume_Jiwoon.pdf)
 
 🔬 Research Interests
 -

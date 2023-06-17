@@ -6,9 +6,9 @@
 🔬 Research Interests
 -
 - Computational Neuroscience
-- Medical AI
 - Generative AI
 - Signal Processing
+- Information Theory
 - Machine Learning
 
 

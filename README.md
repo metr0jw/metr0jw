@@ -5,11 +5,11 @@
 
 🔬 Research Interests
 -
-- Computational Neuroscience
+- Computational neuroscience
 - Generative AI
-- Signal Processing
-- Information Theory
-- Machine Learning
+- Signal processing
+- Information theory
+- Machine learning
 
 
 📫 How to reach me

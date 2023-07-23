@@ -40,6 +40,8 @@ Series Biosignals"
   - In *The Korean Society of Medical & Biological Engineering Fall Conference 2022*, Nov 2022, Incheon, Korea
 - ***J. Lee***, *C. Park, “[Restoration of Time-Series Medical Data with Diffusion Model](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=L8N4pFoAAAAJ&citation_for_view=L8N4pFoAAAAJ:u5HHmVD_uO8C)”
   - In *IEEE International Conference on Consumer Electronics-Asia 2022 (ICCE-Asia 2022)*, Oct 2022, Yeosu, Korea
+- S. Baek, H. Yu, ***J. Lee***, *C. Park, "[Design of Explainable AI Model with LIME for Single Channel Electroencephalogram](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11132844)"
+  - In *Summer Annual Conference of IEIE, 2022*, Jun 2022, Jeju, Korea
 - S. Baek, S. Han, ***J. Lee***, *C. Park, “[Arrhythmia Classification Using 1D-2D Conversion](https://github.com/metr0jw/Imaged-ECG-Signal-Processing)”
   - In *u-Healthcare 2019*, Dec 2019, Seoul, Korea
 
@@ -57,7 +59,10 @@ Series Biosignals"
 - Sep 2022 - Present
   - IEEE, Seoul Section
 - Sep 2022 - Present
-  - IEEE Consumer Technology Society 
+  - IEEE Consumer Technology Society
+
+## Community Activities
+- 
 
 How to reach me
 -

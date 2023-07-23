@@ -27,7 +27,7 @@
 - **Best Paper Award**, IEEE International Conference on Consumer Electronics-Asia 2022, IEEE, 2022
 - **Excellence Award**, Ministry of National Defense Start-Up Challange, Republic of Korea Ministry of National Defense, 2021
 - **Academic Excellence Scholarship**, Kwangwoon University, 2019
-- **Grand Prize** Chambit Design Semester Performance Presentation, Kwangwoon University, 2019
+- **Grand Prize**, Chambit Design Semester Performance Presentation, Kwangwoon University, 2019
 - **Microsoft Azure Prize**, The 1st Welcome to the maker world, Microsoft Korea, 2017
 
 ## Communications
@@ -62,7 +62,26 @@ Series Biosignals"
   - IEEE Consumer Technology Society
 
 ## Community Activities
-- 
+- Jan 2020 - Present
+  - Organizer of University Machine Learning Club Alliance [DeepUser](https://www.facebook.com/DeepUserAI)
+    - Hanyang University
+    - Korea Aerospace University
+    - Kwangwoon University
+    - Sogang University
+    - Soongsil University
+- Jul 2019 - Present
+  - Organizer of Kwangwoon University Machine Learning Club [MI:RU](https://www.facebook.com/KWUMIRU/)
+- Mar 2019 - Present
+  - The 53rd gen. member of the Computer Research Club [COMs](https://coms.kw.ac.kr), at Kwangwoon University
+- Jul 2015 - Present
+  - Organizer of Community for Programmer [코딩이랑 무관합니다만,(System.Out.Coding)](https://www.facebook.com/groups/System.out.Coding)
+- Jan 2013 - Dec 2018
+  - Member of [Steam Translation Community](https://valve.crowdin.com/)
+    - English to Korean Translation
+        - Farming Simulator
+        - Goat Simulator
+- Jan 2016 - Jan 2017
+  - Member of Media Team, KSIA - Korea Student IT Alliance
 
 How to reach me
 -

@@ -13,8 +13,10 @@
 ## Experience
 - Jan 2022 - Present
   - **Student researcher**, *BCML (Bio Computing and Machine Learning) Lab., Kwangwoon University*
+  - Advisor: Cheolsoo Park
 - Jul 2022 - Aug 2022
   - **Research intern**, *Qualcomm Institute, University of California, San Diego*
+  - Project instructor: Seokheon Justin Cho
 
 ## Education
 - Feb 2019 - Present
@@ -29,15 +31,21 @@
 - **Microsoft Azure Prize**, The 1st Welcome to the maker world, Microsoft Korea, 2017
 
 ## Communications
-- ***J. Lee***, C. Park, “Denoising Diffusion Probabilistic Model based Time-Series ECG data Interpolation”, in *The Korean
-Society of Medical & Biological Engineering Autumn Conference 2022*, Nov 2022
-- ***J. Lee***, C. Park, “Restoration of Time-Series Medical Data with Diffusion Model”, in *2022 IEEE International Conference on
-Consumer Electronics-Asia (ICCE-Asia)*, Oct 2022 [[Link]](https://ieeexplore.ieee.org/document/9954640)
-- S. Baek, S. Han, ***J. Lee***, C. Park, “Arrhythmia Classification Using 1D-2D Conversion”, in *u-Healthcare 2019*, Dec 2019
+- J. Yang, J. Kim, ***J. Lee***, H. Ryu, S. Yeo, P. Kim, Y. Kim, J. Lim, H. Yoon, *C. Park, “Metaverse: Research Based Prediction Model of the Car Price in the view of the Machine-learning Method”
+  - In *IEEE International Conference on Metaverse Computing, Networking and Applications 2023 (IEEE MetaCom 2023)*, Jun 2023, Kyoto, Japan
+- Y. Kang, ***J. Lee***, *C. Park, "A Reconstruction Algorithm Employing Diffusion Model for Generating Multivariate Time
+Series Biosignals"
+  -  In *The Korean Society of Medical & Biological Engineering Autumn Conference 2023*, May 2023, Daegu, Korea
+- ***J. Lee***, *C. Park, “Denoising Diffusion Probabilistic Model based Time-Series ECG data Interpolation”
+  - In *The Korean Society of Medical & Biological Engineering Fall Conference 2022*, Nov 2022, Incheon, Korea
+- ***J. Lee***, *C. Park, “[Restoration of Time-Series Medical Data with Diffusion Model](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=L8N4pFoAAAAJ&citation_for_view=L8N4pFoAAAAJ:u5HHmVD_uO8C)”
+  - In *IEEE International Conference on Consumer Electronics-Asia 2022 (ICCE-Asia 2022)*, Oct 2022, Yeosu, Korea
+- S. Baek, S. Han, ***J. Lee***, *C. Park, “[Arrhythmia Classification Using 1D-2D Conversion](https://github.com/metr0jw/Imaged-ECG-Signal-Processing)”
+  - In *u-Healthcare 2019*, Dec 2019, Seoul, Korea
 
 ## Patents
-- KOR 10-2022-0189990, ***J. Lee***, G. Yang, and C. Park, “Restoration method for corrupted Time-series medical data based on Probabilistic model”, Dec 2022
-- KOR 10-2016-0045279, ***J. Lee***, “AR navigation service using the Indoor Positioning System and Beacon”, Apr 2016
+- KOR 10-2022-0189990, ***J. Lee***, G. Yang, and C. Park, “[Restoration method for corrupted Time-series medical data based on Probabilistic model](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=L8N4pFoAAAAJ&citation_for_view=L8N4pFoAAAAJ:d1gkVwhDpl0C)”, Dec 2022
+- KOR 10-2016-0045279, ***J. Lee***, “[AR navigation service using the Indoor Positioning System and Beacon](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=L8N4pFoAAAAJ&citation_for_view=L8N4pFoAAAAJ:u-x6o8ySG0sC)”, Apr 2016
 
 ## Certifications
 - [Introduction to Statistical Methods with MATLAB](https://matlabacademy.mathworks.com/progress/certificate.pdf?course=stats&release=R2022a&language=en&), MATLAB, Feb 2023

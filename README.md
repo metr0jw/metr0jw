@@ -30,6 +30,10 @@
 - **Grand Prize**, Chambit Design Semester Performance Presentation, Kwangwoon University, 2019
 - **Microsoft Azure Prize**, The 1st Welcome to the maker world, Microsoft Korea, 2017
 
+## Publication
+- H. Yu†, S. Baek†, ***J. Lee***†, I. Sohn, B. Hwang*, C. Park* (2023). "Deep Neural Network-based Empirical Mode Decomposition for Motor Imagery EEG Classification"
+  - IEEE Sensors Journal. Under review. († Co-first author. * Corresponding author.)
+
 ## Communications
 - J. Yang, J. Kim, ***J. Lee***, H. Ryu, S. Yeo, P. Kim, Y. Kim, J. Lim, H. Yoon, *C. Park, “Metaverse: Research Based Prediction Model of the Car Price in the view of the Machine-learning Method”
   - In *IEEE International Conference on Metaverse Computing, Networking and Applications 2023 (IEEE MetaCom 2023)*, Jun 2023, Kyoto, Japan

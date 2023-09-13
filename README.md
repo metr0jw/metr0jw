@@ -21,6 +21,7 @@
 ## Education
 - Feb 2019 - Present
   - B.S. in ***Computer Engineering***, ***Kwangwoon University**, Seoul, Korea*
+  - Advisor: Cheolsoo Park
 
 ## Honors and Awards
 - **Software Competence Excellence Scholarship**, Kwangwoon University, 2019, 2022, 2023

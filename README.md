@@ -67,6 +67,8 @@ Series Biosignals"
   - IEEE Consumer Technology Society
 
 ## Community Activities
+- Sep 2023 - Present
+  -  Core member of Machine Learning, of Google Developer Student Clubs Kwangwoon University ([GDSC KW](https://gdsc.community.dev/kwangwoon-university/))
 - Jan 2020 - Present
   - Organizer of University Machine Learning Club Alliance [DeepUser](https://www.facebook.com/DeepUserAI)
     - Hanyang University

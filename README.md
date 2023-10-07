@@ -33,7 +33,7 @@
 
 ## Publication
 - H. Yu†, S. Baek†, ***J. Lee***†, I. Sohn, B. Hwang*, C. Park* (2023). "Deep Neural Network-based Empirical Mode Decomposition for Motor Imagery EEG Classification"
-  - IEEE Sensors Journal. Under review. († Co-first author. * Corresponding author.)
+  - Under review. († Co-first author. * Corresponding author.)
 
 ## Communications
 - J. Yang, J. Kim, ***J. Lee***, H. Ryu, S. Yeo, P. Kim, Y. Kim, J. Lim, H. Yoon, *C. Park, “Metaverse: Research Based Prediction Model of the Car Price in the view of the Machine-learning Method”

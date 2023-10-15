@@ -68,7 +68,7 @@ Series Biosignals"
 
 ## Community Activities
 - Sep 2023 - Present
-  -  Core member of Machine Learning, of Google Developer Student Clubs Kwangwoon University ([GDSC KW](https://gdsc.community.dev/kwangwoon-university/))
+  -  Organizer of Machine Learning Part, of Google Developer Student Clubs Kwangwoon University ([GDSC KW](https://gdsc.community.dev/kwangwoon-university/))
 - Jan 2020 - Present
   - Organizer of University Machine Learning Club Alliance [DeepUser](https://www.facebook.com/DeepUserAI)
     - Hanyang University
@@ -78,17 +78,8 @@ Series Biosignals"
     - Soongsil University
 - Jul 2019 - Present
   - Organizer of Kwangwoon University Machine Learning Club [MI:RU](https://www.facebook.com/KWUMIRU/)
-- Mar 2019 - Present
-  - The 53rd gen. member of the Computer Research Club [COMs](https://coms.kw.ac.kr), at Kwangwoon University
 - Jul 2015 - Present
   - Organizer of Community for Programmer [코딩이랑 무관합니다만,(System.Out.Coding)](https://www.facebook.com/groups/System.out.Coding)
-- Jan 2013 - Dec 2018
-  - Member of [Steam Translation Community](https://valve.crowdin.com/)
-    - English to Korean Translation
-        - Farming Simulator
-        - Goat Simulator
-- Jan 2016 - Jan 2017
-  - Member of Media Team, KSIA - Korea Student IT Alliance
 
 How to reach me
 -

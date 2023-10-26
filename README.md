@@ -5,9 +5,9 @@
 
 ## Research Interests
 - Computational neuroscience
-- Generative AI
 - Signal processing
 - Information theory
+- Generative AI
 - Machine learning
 
 How to reach me

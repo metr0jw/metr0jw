@@ -8,7 +8,7 @@
 - Signal processing
 - Information theory
 - Generative AI
-- Machine learning
+- Statistical machine learning
 
 How to reach me
 -

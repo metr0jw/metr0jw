@@ -12,7 +12,7 @@
 
 How to reach me
 -
-- <jiwoonlee@linux.com> / <webmaster@kw.ac.kr>
+- <jwlee@linux.com> / <webmaster@kw.ac.kr>
 - [LinkedIn](https://www.linkedin.com/in/metr0jw/)
 - [Google Scholar](https://scholar.google.com/citations?user=L8N4pFoAAAAJ&hl=en)
 - [ResearchGate](https://www.researchgate.net/profile/Jiwoon-Lee-3)

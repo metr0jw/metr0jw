@@ -7,7 +7,6 @@
 - Computational neuroscience
 - Signal processing
 - Information theory
-- Generative AI
 - Statistical machine learning
 
 How to reach me

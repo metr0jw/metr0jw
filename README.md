@@ -1,6 +1,6 @@
 📜 Jiwoon Lee -- @metr0jw
 - 
-[![Github Downloads (total)](https://img.shields.io/github/downloads/metr0jw/metr0jw/total.svg)]()
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/metr0jw/metr0jw/total)
 - [**[CV]**](https://github.com/metr0jw/metr0jw/releases/download/main/CV-Jiwoon.pdf)
 - [**[Profile]**](http://bcml.kw.ac.kr/people/intern/)
 

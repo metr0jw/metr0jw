@@ -7,7 +7,7 @@
 ## Research Interests
 - Computational neuroscience
 - Signal processing
-- Information theory
+- Brain-computer interface
 - Statistical machine learning
 
 How to reach me

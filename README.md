@@ -10,13 +10,20 @@
 - Brain-computer interface
 - Statistical machine learning
 
+## Personal Interests and Hobbies
+- Digital logic design
+- Assembly programming
+- FPGA programming
+- Electronics and embedded systems tinkering
+- Open-source project contributions
+
 How to reach me
 -
 - <jwlee@linux.com> / <webmaster@kw.ac.kr>
 - [LinkedIn](https://www.linkedin.com/in/metr0jw/)
 - [Google Scholar](https://scholar.google.com/citations?user=L8N4pFoAAAAJ&hl=en)
 - [ResearchGate](https://www.researchgate.net/profile/Jiwoon-Lee-3)
-- [Facebook](https://www.facebook.com/metr0jw)  
+- [Facebook](https://www.facebook.com/metr0jw)
  
 <!--
 **metr0jw/metr0jw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

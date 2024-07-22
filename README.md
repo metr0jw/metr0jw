@@ -2,7 +2,7 @@
 - 
 [![GitHub Downloads](https://img.shields.io/github/downloads/metr0jw/metr0jw/total?style=flat-square)](https://github.com/metr0jw/metr0jw/releases/download/main/CV-Jiwoon.pdf)
 - [**[CV]**](https://github.com/metr0jw/metr0jw/releases/download/main/CV-Jiwoon.pdf)
-- [**[Profile]**](http://bcml.kw.ac.kr/people/intern/)
+- [**[Profile]**](http://bcml.kw.ac.kr/people/ms-course/)
 
 ## Research Interests
 - Computational neuroscience
@@ -23,7 +23,7 @@ How to reach me
 - [LinkedIn](https://www.linkedin.com/in/metr0jw/)
 - [Google Scholar](https://scholar.google.com/citations?user=L8N4pFoAAAAJ&hl=en)
 - [ResearchGate](https://www.researchgate.net/profile/Jiwoon-Lee-3)
-- [Facebook](https://www.facebook.com/metr0jw)
+- [Facebook](https://www.facebook.com/jwlee.compneuro)
  
 <!--
 **metr0jw/metr0jw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

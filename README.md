@@ -3,6 +3,7 @@
 [![GitHub Downloads](https://img.shields.io/github/downloads/metr0jw/metr0jw/total?style=flat-square)](https://github.com/metr0jw/metr0jw/releases/download/main/CV-Jiwoon.pdf)
 - [**[CV]**](https://github.com/metr0jw/metr0jw/releases/download/main/CV-Jiwoon.pdf)
 - [**[Profile]**](http://bcml.kw.ac.kr/people/ms-course/)
+- [**[Publications]**](https://scholar.google.com/citations?user=L8N4pFoAAAAJ&hl=en)
 
 ## Research Interests
 - Computational neuroscience
@@ -21,8 +22,6 @@ How to reach me
 -
 - <jwlee@linux.com> / <webmaster@kw.ac.kr>
 - [LinkedIn](https://www.linkedin.com/in/metr0jw/)
-- [Google Scholar](https://scholar.google.com/citations?user=L8N4pFoAAAAJ&hl=en)
-- [ResearchGate](https://www.researchgate.net/profile/Jiwoon-Lee-3)
 - [Facebook](https://www.facebook.com/jwlee.compneuro)
  
 <!--

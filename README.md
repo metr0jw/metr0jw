@@ -1,6 +1,6 @@
 📜 Jiwoon Lee -- @metr0jw
 - 
-- [**[CV]**](https://github.com/metr0jw/metr0jw/releases/download/main/CV-Jiwoon.pdf)
+- [**[CV]**](https://github.com/metr0jw/metr0jw/releases/download/main/CV_Jiwoon.pdf)
 - [**[Profile]**](http://bcml.kw.ac.kr/people/ms-course/)
 - [**[Publications]**](https://scholar.google.com/citations?user=L8N4pFoAAAAJ&hl=en)
 

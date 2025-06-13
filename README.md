@@ -19,7 +19,7 @@
 
 How to reach me
 -
-- <jwlee@linux.com> / <jiwoonlee@kw.ac.kr> / <webmaster@kw.ac.kr>
+- <jwlee@linux.com> / <jiwoonlee@kw.ac.kr>
 - [LinkedIn](https://www.linkedin.com/in/metr0jw/)
 - [Facebook](https://www.facebook.com/jwlee.compneuro)
  

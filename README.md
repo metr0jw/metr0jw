@@ -1,39 +1,21 @@
-📜 Jiwoon Lee -- @metr0jw
-- 
-- [**[CV]**](https://github.com/metr0jw/metr0jw/releases/download/main/CV_Jiwoon.pdf)
-- [**[Profile]**](http://bcml.kw.ac.kr/people/ms-course/)
-- [**[Publications]**](https://scholar.google.com/citations?user=L8N4pFoAAAAJ&hl=en)
+# Jiwoon Lee
 
-## Research Interests
-- Computational neuroscience
-- Signal processing
-- Brain-computer interface
-- Statistical machine learning
+**M.S. Student in Computer Engineering** @ [Kwangwoon University](https://www.kw.ac.kr/en/)  
+*[Bio Computing and Machine Learning (BCML) Lab](http://bcml.kw.ac.kr/)*, supervised by Prof. [Cheolsoo Park](https://scholar.google.com/citations?user=hPja97YAAAAJ).
 
-## Personal Interests and Hobbies
-- Digital logic design
-- Assembly programming
-- FPGA programming
-- Electronics and embedded systems tinkering
-- Open-source project contributions
+> Research interests lie in **Computational Neuroscience**, **Brain-Computer Interface (BCI)**, and **Statistical Signal Processing**.  
+> Currently focusing on **Neuromorphic Computing**, **SNN Acceleration on FPGA**, and **High-Performance Computing**.
 
-How to reach me
--
-- <jwlee@linux.com> / <jiwoonlee@kw.ac.kr>
-- [LinkedIn](https://www.linkedin.com/in/metr0jw/)
-- [Facebook](https://www.facebook.com/jwlee.compneuro)
- 
-<!--
-**metr0jw/metr0jw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[**CV (PDF)**](https://github.com/metr0jw/metr0jw/releases/download/main/CV_Jiwoon.pdf) | [**Google Scholar**](https://scholar.google.com/citations?user=L8N4pFoAAAAJ) | [**LinkedIn**](https://www.linkedin.com/in/metr0jw/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Research Areas
+- Neuromorphic Computing
+- Hardware Acceleration (FPGA/GPGPU)
+- Bio-Signal Processing
+- Brain-Computer Interface
+
+### Contact
+- **Email:** jwlee@linux.com / jiwoonlee@kw.ac.kr
+- **Location:** Seoul, Republic of Korea

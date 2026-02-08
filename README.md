@@ -6,7 +6,7 @@
 > Research interests lie in **Computational Neuroscience**, **Brain-Computer Interface (BCI)**, and **Statistical Signal Processing**.  
 > Currently focusing on **Neuromorphic Computing**, **SNN Acceleration on FPGA**, and **High-Performance Computing**.
 
-[**CV (PDF)**](https://github.com/metr0jw/metr0jw/blob/master/CV_Jiwoon.pdf) | [**Google Scholar**](https://scholar.google.com/citations?user=L8N4pFoAAAAJ) | [**LinkedIn**](https://www.linkedin.com/in/metr0jw/)
+[**CV (PDF)**](https://github.com/metr0jw/metr0jw/releases/download/main/CV_Jiwoon.pdf) | [**Google Scholar**](https://scholar.google.com/citations?user=L8N4pFoAAAAJ) | [**LinkedIn**](https://www.linkedin.com/in/metr0jw/)
 
 ---
 
